@@ -1,0 +1,15 @@
+C:\Users\Kompich\Desktop\Examples1\Examle001_HelloComsole\bin\Debug\net7.0\Examle001_HelloComsole.exe
+C:\Users\Kompich\Desktop\Examples1\Examle001_HelloComsole\bin\Debug\net7.0\Examle001_HelloComsole.deps.json
+C:\Users\Kompich\Desktop\Examples1\Examle001_HelloComsole\bin\Debug\net7.0\Examle001_HelloComsole.runtimeconfig.json
+C:\Users\Kompich\Desktop\Examples1\Examle001_HelloComsole\bin\Debug\net7.0\Examle001_HelloComsole.dll
+C:\Users\Kompich\Desktop\Examples1\Examle001_HelloComsole\bin\Debug\net7.0\Examle001_HelloComsole.pdb
+C:\Users\Kompich\Desktop\Examples1\Examle001_HelloComsole\obj\Debug\net7.0\Examle001_HelloComsole.csproj.AssemblyReference.cache
+C:\Users\Kompich\Desktop\Examples1\Examle001_HelloComsole\obj\Debug\net7.0\Examle001_HelloComsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kompich\Desktop\Examples1\Examle001_HelloComsole\obj\Debug\net7.0\Examle001_HelloComsole.AssemblyInfoInputs.cache
+C:\Users\Kompich\Desktop\Examples1\Examle001_HelloComsole\obj\Debug\net7.0\Examle001_HelloComsole.AssemblyInfo.cs
+C:\Users\Kompich\Desktop\Examples1\Examle001_HelloComsole\obj\Debug\net7.0\Examle001_HelloComsole.csproj.CoreCompileInputs.cache
+C:\Users\Kompich\Desktop\Examples1\Examle001_HelloComsole\obj\Debug\net7.0\Examle001_HelloComsole.dll
+C:\Users\Kompich\Desktop\Examples1\Examle001_HelloComsole\obj\Debug\net7.0\refint\Examle001_HelloComsole.dll
+C:\Users\Kompich\Desktop\Examples1\Examle001_HelloComsole\obj\Debug\net7.0\Examle001_HelloComsole.pdb
+C:\Users\Kompich\Desktop\Examples1\Examle001_HelloComsole\obj\Debug\net7.0\Examle001_HelloComsole.genruntimeconfig.cache
+C:\Users\Kompich\Desktop\Examples1\Examle001_HelloComsole\obj\Debug\net7.0\ref\Examle001_HelloComsole.dll
